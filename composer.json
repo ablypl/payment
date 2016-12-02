@@ -1,0 +1,21 @@
+{
+    "name": "lari/payments",
+    "description": "Payments manager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Szczepański",
+            "email": "sebastian@ably.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+              "Lari\\Payments\\": "src/"
+          
+        }
+      
+    }
+}
