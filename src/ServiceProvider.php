@@ -15,14 +15,4 @@ class ServiceProvider extends Base
     {
         $this->loadMigrationsFrom(__DIR__.'/../database');
     }
-
-    /**
-     * Register the application services.
-     *
-     * @return void
-     */
-    public function register()
-    {
-        //
-    }
 }
