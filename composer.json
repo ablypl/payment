@@ -9,7 +9,6 @@
             "email": "sebastian@ably.pl"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
